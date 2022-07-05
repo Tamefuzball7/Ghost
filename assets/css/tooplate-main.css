@@ -232,6 +232,20 @@ nav a::before {
   opacity: 1;
   z-index: -1;
 }
+
+.logox {
+	margin-top: 0px;
+  top: 0;
+  left: 0;
+  z-index: 999999;
+  position: fixed;
+ 	display: inline-block;
+  text-align: center;
+	background-color: #d2cc70;
+	height: 15%;
+	width: 15%;
+}
+
 .logo {
 	margin-top: 0px;
   top: 0;
